@@ -34,3 +34,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# Client Side Rendering(CSR)
+- Buffet where you server food yourself
+- Speed is slow
+- Fresh code after load
+- Apps that require interaction
+
+# Server Side Rendering (SSR)
+- Meal That has been cooked by a chef.
+- Faster that CSR
+- code is always fresh
+- create dynamic pages
+
+# static side Generation (SSG)
+
+- Meal is pre-cooked
+- Faster than both CSR and SSR
+- Stale if Not rebuilt
+- blog
+
+# Increamental Site Regeneration (ISR)
+
+- Meal is pre-cooked 
+- Faster than CSR
+- Code we get is fresh
+- Semi-Dynamic apps
