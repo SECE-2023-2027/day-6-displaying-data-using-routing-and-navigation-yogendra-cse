@@ -55,7 +55,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - Stale if Not rebuilt
 - blog
 
-# Increamental Site Regeneration (ISR)
+# Incremental Site Regeneration (ISR)
 
 - Meal is pre-cooked 
 - Faster than CSR
